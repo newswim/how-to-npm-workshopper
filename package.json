@@ -1,0 +1,28 @@
+{
+  "name": "how-to-npm-workshopper",
+  "version": "1.0.0",
+  "description": "This is a codebase for the nodeschool module \"How-to-npm\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newswim/how-to-npm-workshopper.git"
+  },
+  "keywords": [
+    "nodeschool",
+    "npm",
+    "workshopper"
+  ],
+  "author": "Daniel Minshew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/newswim/how-to-npm-workshopper/issues"
+  },
+  "homepage": "https://github.com/newswim/how-to-npm-workshopper#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {}
+}
